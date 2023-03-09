@@ -1,6 +1,6 @@
 # ClipboardAnywhere
-This is a simple Real-time chat react app using websockets powered by socket.io.\n \n
+This is a simple Real-time chat react app using websockets powered by socket.io.
 
-To deploy a test environment: \n
-To start front-end - run command: `npm start` from client directory.\n
+<sup>To deploy a test environment:</sup>
+<sub>To start front-end - run command: `npm start` from client directory.</sub>
 To start back-end - run `npm run devStart` from sever directory
